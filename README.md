@@ -7,5 +7,5 @@ down small progess bar is for Ore
 ## Setup
 * Paste Lua configuration to clipboard
 * Link containers (careful about slot name)  & screen 
-* ![image](https://raw.githubusercontent.com/WilloneToT/oreMonitoring/master/schema.jpg)
+* ![image](https://raw.githubusercontent.com/WilloneToT/oreMonitoring/master/schema2.jpg)
 * Edit lua parameters and set containerVolume
