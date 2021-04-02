@@ -3,7 +3,7 @@
 ![image](https://raw.githubusercontent.com/WilloneToT/oreMonitoring/master/example.png)
 
 * ONE BOARD / TIER
-*  
+*  Gaz&Fuel are in one board, you can delete fuel or gaz screen if you delete script unit->Start()
 *  Top big progress bar is for Pure
 *  down small progess bar is for Ore
 
